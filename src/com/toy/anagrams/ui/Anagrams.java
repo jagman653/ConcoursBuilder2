@@ -80,6 +80,7 @@ public class Anagrams extends JFrame {
 
     /** Creates new form Anagrams */
     public Anagrams() {
+        
         wordLibrary = WordLibrary.getDefault();
         
         initComponents();
